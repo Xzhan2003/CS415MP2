@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/HealthBar.uasset",
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/GameOver.uasset",
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/BlockGame/Maps/MyMap.umap"
+			]
+		}
+	]
+}
