@@ -13,14 +13,20 @@
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/GreenLight.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Pickups/HealthPickUp.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/ScoreBar.uasset",
-				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Pickups/Star.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Pickups/StarPickUp.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/ImportModels/gold_star.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/ImportModels/gold_star_Star_BaseColor.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/ImportModels/gold_star_Star_Metallic.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/ImportModels/gold_star_Star_Normal.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/ImportModels/gold_star_Star_Roughness.uasset",
-				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/ImportModels/Star.uasset"
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/ImportModels/Star.uasset",
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Maps/MyMap.umap",
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Pursuer_AIController.uasset",
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset",
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/AI/Pursuer_AIController.uasset",
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/AI/BP_Pursuer.uasset",
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/AI/EAIState.uasset",
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Pickups/Star.uasset"
 			]
 		}
 	]
