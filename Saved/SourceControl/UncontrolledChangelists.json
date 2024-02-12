@@ -24,7 +24,6 @@
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/AI/Pursuer_AIController.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/AI/BP_Pursuer.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/AI/EAIState.uasset",
-				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Enemy/MortarEnemy.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Enemy/BP_MortarEnemy.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Enemy/BP_Bomb.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Enemy/BP_MachineGun.uasset",
@@ -42,6 +41,8 @@
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Enemy/mortar/mortar_Material_Metallic.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Enemy/mortar/mortar_Material_Normal.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Enemy/mortar/mortar_Material_Roughness.uasset",
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/GameWin.uasset",
+				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Enemy/MortarEnemy.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/BlockGame/Maps/MyMap.umap",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Pursuer_AIController.uasset",
 				"C:/Users/xiany/Desktop/xzhanMP2/MP2/Content/LearningKit_Games/Blueprints/Pickups/Star.uasset"
